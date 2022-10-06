@@ -1,4 +1,4 @@
-Amazon Best Selling Books - A Decade of Analysis
+# Amazon Best Selling Books - A Decade of Analysis
 
 I web-scrapped Amazing Best Selling Books in this project from 2009 to 2019.
 
@@ -6,21 +6,21 @@ In this project, I will be presenting insights derived from the decade of analys
 
 Each year contains a list of 100 best-selling books. The whole data contains 1090 rows and 8 columns in total.
 
-Categorization of the Books
+# Categorization of the Books
 
 For the successful analysis of the best-selling books on Amazon, I needed to analyze the books based on types or categories. 
 
-And it happened that Amazon does not have a definite categorization of books on their website as one book can be found in different departments which is a way they used to group their books. In other to overcome this, I used the information from Goodreads, the world's largest site for readers, and book recommendations to group the books into two distinct categories which are Fiction and Non-Fiction.
+And it happened that Amazon does not have a definite categorization of books on their website as one book can be found in different departments which is a way they used to group their books. In other to overcome this, I used the information from [Goodreads](https://www.goodreads.com/), the world's largest site for readers, and book recommendations to group the books into two distinct categories which are **Fiction** and **Non-Fiction.**
 
 The new column that contains this categorization is called genre and at the end, the dataset had 9 columns in total.
 
-Metadata Description
+# Metadata Description
 
 The scrapped data contains the following columns:
 
-price: the price of each book
+ - price: the price of each book
 
-rank: the ranking of each book in the top 100 best-selling for each year
+ - rank: the ranking of each book in the top 100 best-selling for each year
 
 title: the title of the book
 
