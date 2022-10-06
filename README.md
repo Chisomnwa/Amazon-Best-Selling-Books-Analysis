@@ -22,52 +22,54 @@ The scrapped data contains the following columns:
 
  - rank: the ranking of each book in the top 100 best-selling for each year
 
-title: the title of the book
+ - title: the title of the book
 
-no_of_review: this is the total reviews a book has
+ - no_of_review: this is the total reviews a book has
 
-rating: this is the user rating that a book has
+ - rating: this is the user rating that a book has
 
-author: this is the name of the author of a book
+ - author: this is the name of the author of a book
 
-cover_type: this is the cover type of each book
+ - cover_type: this is the cover type of each book
 
-year: this is the year each book appeared as a best-selling book
+ - year: this is the year each book appeared as a best-selling book
 
-genre: this is the category or type of book (Fiction or Non-Fiction)
+ - genre: this is the category or type of book (Fiction or Non-Fiction)
 
 
-Summary of Findings
+# Summary of Findings
 
-Between 2009 and 2019, Amazon had more Non-Fiction books on the best sellers list than Fiction books. There was a total of  (345) 54.16% Non-Fiction books and (292) 45.58% Fiction books.
+ - Between 2009 and 2019, Amazon had more Non-Fiction books on the best sellers list than Fiction books. There was a total of  (345) 54.16% Non-Fiction books and (292) 45.58% Fiction books.
 
-2019 had the highest number of best-selling books which were Non-Fiction while 2009 had more Fiction books that were best sellers.
+ - 2019 had the highest number of best-selling books which were Non-Fiction while 2009 had more Fiction books that were best sellers.
 
-The majority of the best-selling books (459) had a hardcover type, followed by the books which had paperbacks (445).
+ - The majority of the best-selling books (459) had a hardcover type, followed by the books which had paperbacks (445).
 
-There is no relationship between price and reviews.
+ - There is no relationship between price and reviews.
 
-Between 2009 and 2019, Fiction books had more reviews than Non-Fiction books
+ - Between 2009 and 2019, Fiction books had more reviews than Non-Fiction books
 
-The average price of books started decreasing in 2014, increased in 2018, and then reduced again in 2019. 
+ - The average price of books started decreasing in 2014, increased in 2018, and then reduced again in 2019. 
 
-The top 20 authors with higher user ratings had more than 4.5 stars in User Ratings.
+ - The top 20 authors with higher user ratings had more than 4.5 stars in User Ratings.
 
-Delia Owens had the maximum number of reviews which was about 340,000 reviews and was very much higher than other authors' reviews. This made him the top best-selling author on Amazon as regards reviews.
+ - Delia Owens had the maximum number of reviews which was about 340,000 reviews and was very much higher than other authors' reviews. This made him the top best-selling author on Amazon as regards reviews.
 
-The top 5 authors with the highest priced books are American Psychiatric Association, Hall H Pearson Education, George R.R Martin, and Jay-Z.
+ - The top 5 authors with the highest priced books are American Psychiatric Association, Hall H Pearson Education, George R.R Martin, and Jay-Z.
 American Psychiatric Association is an outlier having a maximum average price of 144 dollars.
 
-Based on Genre and number of book appearances:
-the top five best-selling authors in Fiction were Rick Riordan, Suzanne Collins, Jeff Kinney, Dr.Seuss, and Stephen Meyer.
-the top five best-selling authors in Non-Fiction were Gallup, Malcolm Gladwell, American Psychological Association, The College Board, and Gary Chapman.
+ - Based on Genre and number of book appearances:
 
-Fiction writers like Rick Riordan, Suzanne Collins, Jeff Kinney, and John Grisham were the best-selling or sought-after authors.
+  - the top five best-selling authors in Fiction were Rick Riordan, Suzanne Collins, Jeff Kinney, Dr.Seuss, and Stephen Meyer.
+  
+  - the top five best-selling authors in Non-Fiction were Gallup, Malcolm Gladwell, American Psychological Association, The College Board, and Gary Chapman.
 
-The top 10 books based on user ratings had more than 4.5 stars in their user ratings.
- The top best-selling books based on user ratings had When the Crawdads Sing, The Silent Patient, Becoming, and The Nightingale: A Novel as the top 4 books.
+ - Fiction writers like Rick Riordan, Suzanne Collins, Jeff Kinney, and John Grisham were the best-selling or sought-after authors.
+
+ - The top 10 books based on user ratings had more than 4.5 stars in their user ratings.
+ 
+ - The top best-selling books based on user ratings had When the Crawdads Sing, The Silent Patient, Becoming, and The Nightingale: A Novel as the top 4 books.
+
 Meanwhile When The Crawdads Sing is the top outlier with the highest average number of reviews of about 344811 reviews.
-    17. The overall top best-selling books based on appearance were self-development books.
 
-
-
+ - The overall top best-selling books based on appearance were self-development books.
