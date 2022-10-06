@@ -60,9 +60,9 @@ American Psychiatric Association is an outlier having a maximum average price of
 
  - Based on Genre and number of book appearances:
 
-  - the top five best-selling authors in Fiction were Rick Riordan, Suzanne Collins, Jeff Kinney, Dr.Seuss, and Stephen Meyer.
+    - the top five best-selling authors in Fiction were Rick Riordan, Suzanne Collins, Jeff Kinney, Dr.Seuss, and Stephen Meyer.
   
-  - the top five best-selling authors in Non-Fiction were Gallup, Malcolm Gladwell, American Psychological Association, The College Board, and Gary Chapman.
+    - the top five best-selling authors in Non-Fiction were Gallup, Malcolm Gladwell, American Psychological Association, The College Board, and Gary Chapman.
 
  - Fiction writers like Rick Riordan, Suzanne Collins, Jeff Kinney, and John Grisham were the best-selling or sought-after authors.
 
@@ -70,6 +70,6 @@ American Psychiatric Association is an outlier having a maximum average price of
  
  - The top best-selling books based on user ratings had When the Crawdads Sing, The Silent Patient, Becoming, and The Nightingale: A Novel as the top 4 books.
 
-Meanwhile When The Crawdads Sing is the top outlier with the highest average number of reviews of about 344811 reviews.
+    Meanwhile When The Crawdads Sing is the top outlier with the highest average number of reviews of about 344811 reviews.
 
  - The overall top best-selling books based on appearance were self-development books.
