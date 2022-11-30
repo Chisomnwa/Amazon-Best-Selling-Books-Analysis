@@ -1,8 +1,8 @@
-# Amazon Best Selling Books - A Decade of Analysis
+# Amazon Best Selling Books Analysis with Python
 
 I web-scrapped Amazing Best Selling Books in this project from 2009 to 2019.
 
-In this project, I will be presenting insights derived from the decade of analysis performed on the Amazon best-selling books data.
+In this project, I will be presenting insights derived from the analysis performed on the Amazon best-selling books data.
 
 Each year contains a list of 100 best-selling books. The whole data contains 1090 rows and 8 columns in total.
 
@@ -73,3 +73,18 @@ American Psychiatric Association is an outlier having a maximum average price of
     Meanwhile When The Crawdads Sing is the top outlier with the highest average number of reviews of about 344811 reviews.
 
  - The overall top best-selling books based on appearance were self-development books.
+ 
+ 
+ # Dashboard Report
+ 
+ At the end of this project, I build a [dashboard report](https://www.novypro.com/project/amazon-best-selling-books-analysis) showcasing the main insights derived from the analysis of these best selling books.
+ 
+ 
+ # Blog Post
+ 
+ You can also read my [blog post](https://medium.com/@chisompromise/amazon-best-selling-books-analysis-with-python-5b0dbccfa648) on this project
+ 
+ 
+With the collaboration of a colleague, we updated this dataset from 2009-2019 to 2009-2021 and hosted it on [Kaggle](https://www.kaggle.com/datasets/abdulhamidadavize/top-100-best-selling-books-on-amazon-20092021). You can also download this dataset and build your own interseting project with it!.
+ 
+ 
